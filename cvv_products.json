@@ -1,0 +1,67 @@
+{
+    "data": {
+        "products": 
+        [
+            {
+                "name": "Сүү 1л",
+                "reward": "2 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/s/c/screenshot_2022-03-15_114515.png",
+                "category": "Сүү"
+            },
+            {
+                "name": "Сүү 500мл",
+                "reward": "1 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/0/2/02001512.png",
+                "category": "Сүү"
+            },
+            {
+                "name": "Сүү MILK 1л",
+                "reward": "2 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/b26914b4315099761016f66ddcabadb6/0/2/02389680.png",
+                "category": "Сүү"
+            },
+            {
+                "name": "Амтлаг тараг 500мл",
+                "reward": "1 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/b26914b4315099761016f66ddcabadb6/t/a/tarag_had_1.jpg",
+                "category": "Тараг"
+            },
+            {
+                "name": "Амтлаг тараг 870мл",
+                "reward": "2 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/5/_/5_361.jpg",
+                "category": "Тараг"
+            },
+            {
+                "name": "Цөцгийтэй тараг",
+                "reward": "2 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/b26914b4315099761016f66ddcabadb6/1/_/1_5_449.png",
+                "category": "Тараг"
+            },
+            {
+                "name": "Биофит BB12",
+                "reward": "1 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/1/2/12_1_142.jpg",
+                "category": "Тараг"
+            },
+            {
+                "name": "Amore",
+                "reward": "2 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/g/e/gerbuliin-zairmag_2.jpg",
+                "category": "Зайрмаг"
+            },
+            {
+                "name": "Зөөхий Миний Монголын",
+                "reward": "1 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/s/c/screenshot_2022-05-05_115041.png",
+                "category": "Бусад"
+            },
+            {
+                "name": "Элгэн Тараг",
+                "reward": "1 эрх",
+                "imageUrl": "https://cdn.nomin.mn/media/catalog/product/cache/a5a4e4ac6f1ef521fa59ac223494c832/s/c/screenshot_2022-03-15_195902.png",
+                "category": "Тараг"
+            }
+        ]
+    }
+}
