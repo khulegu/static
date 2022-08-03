@@ -1,0 +1,9 @@
+{
+    "data": {
+        "rule_body": "Hello! Codeforces Round #811 (Div. 3) will start at Monday, August 1, 2022 at 22:35UTC+8. You will be offered 6-8 problems with expected difficulties to compose an interesting competition for participants with ratings up to 1600. However, all of you who wish to take part and have a rating of 1600 or higher, can register for the round unofficially.\n\nThe round will be hosted by rules of educational rounds (extended ACM-ICPC). Thus, solutions will be judged on preliminary tests during the round, and after the round, it will be a 12-hour phase of open hacks.\n\nYou will be given 6-8 problems and 2 hours and 15 minutes to solve them.\n\nNote that the penalty for the wrong submission in this round (and the following Div. 3 rounds) is 10 minutes.\n\nRemember that only the trusted participants of the third division will be included in the official standings table. As it is written by link, this is a compulsory measure for combating unsporting behavior. To qualify as a trusted participant of the third division, you must:\n\ntake part in at least five rated rounds (and solve at least one problem in each of them), do not have a point of 1900 or higher in the rating. Regardless of whether you are a trusted participant of the third division or not, if your rating is less than 1600, then the round will be rated for you.\n\nThanks to MikeMirzayanov for the platform, help with ideas for problems and for coordination of our work. Problems have been created and written by ITMO University teams: MikeMirzayanov, myav, Gol_D, Aris, SixtyWithoutExam, me Vladosiya.\n\nAlso many thanks to yorky, Jostic11, turmax, Bugman, Crescendo, antonis.white, molney, KerakTelor, andrey.starodubtsev, Ahmad45123, myway, Myao, Muhammad98 for testing the contest and valuable feedback.\n\nGood luck!",
+        "dates": [
+            "2022.08.25, 20:00 цаг",
+            "2022.08.31, 20:30 цаг"
+        ]
+    }
+}

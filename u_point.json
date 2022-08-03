@@ -1,8 +1,11 @@
 {
-    "updated_at": "2022-07-06T05:59:02.592Z",
+    "v": 2,
     "qr_app_bar": {
         "background": "https://i.imgur.com/rQu5gOB.png",
         "logo": "https://raw.githubusercontent.com/khulegu/static/main/assets/logo.svg",
         "background_color": "default"
-    }
+    },
+    "dev_mobiles": [
+        "85284078"
+    ]
 }
