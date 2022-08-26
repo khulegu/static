@@ -23,7 +23,7 @@
         "headerBackground": {
             "type": "image",
             "src": "https://i.imgur.com/CBpCOzm.png"
-        },
+        }
     },
     "popUp": {
         "id": "e10d860c-f8c6-4926-9dee-6a04b4da313b",
