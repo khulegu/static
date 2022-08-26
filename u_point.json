@@ -14,5 +14,11 @@
         "80003208",
         "89666492",
         "80490828"
-    ]
+    ],
+    "homePageStyle": {
+        "background": {
+            "type": "image",
+            "src": "asset://graphics/9_1_background.png"
+        }
+    }
 }
