@@ -14,23 +14,5 @@
     "80003208",
     "89666492",
     "80490828"
-  ],
-  "homePageStyle": {
-    "background": {
-      "type": "image",
-      "src": "asset://graphics/9_1_background.png"
-    },
-    "headerBackground": {
-      "type": "image",
-      "src": "https://i.imgur.com/CBpCOzm.png"
-    }
-  },
-  "popUp": {
-    "id": "e10d860c-f8c6-4926-9dee-6a04b4da313b",
-    "content": {
-        "type": "lottie",
-        "src": "asset://lottie/9_1_pop_up.json"
-    },
-    "condition": "every"
-  }
+  ]
 }
